@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Bqf5eZ3K0M8xu77UVxJiOnvYfANQWUjIJuSfKS9ezexrr/r5mYKgOvCnB/G6rvyn+JSjjQTTIIPaDD2/59ZKw==",
+  "success": true,
+  "projectFilePath": "D:\\Assignment\\TaskBaseMangement\\src\\TaskManagement.Core\\TaskManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SBhatia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\SBhatia\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\SBhatia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
