@@ -16,19 +16,20 @@ Task Management Application is a solution designed to allow users to efficiently
 
 # How to setup the project
 
-Step 1: Configure the Database Connection
+Step 1: **Configure the Database Connection**: 
 Update your connection string in the `appsettings.json` file by modifying the `DefaultConnection` key.
 
-Step 2: Database Deployment
+Step 2: **Database Deployment**:
 You can either restore the database in your SQL Server instance (attached in the email) or follow these steps to create a new database: 
 
 1. Open the solution in Visual Studio and go to Package Manager Console.
-2. Run the following command to create a migration:
+2. Select default project as `TaskManagement.Infrastructure`.
+3. Run the following command to create a migration:
    `Add-Migration InitializeDatabase`
-3. Apply the migration to create the database:
+4. Apply the migration to create the database:
    `Update-Database`
 
-Step 3: Run the API
+Step 3: **Run the API**:
 Start the `TaskManagement.API` project in Visual Studio.
 
 
