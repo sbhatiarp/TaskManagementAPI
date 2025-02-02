@@ -20,7 +20,7 @@ Step 1: **Configure the Database Connection**:
 Update your connection string in the `appsettings.json` file by modifying the `DefaultConnection` key.
 
 Step 2: **Database Deployment**:
-You can either restore the database in your SQL Server instance (attached in the email) or follow these steps to create a new database: 
+You can either restore the database in your SQL Server instance using backup file (attached in the email 'TaskDB.bak') or follow these steps to create a new database: 
 
 1. Open the solution in Visual Studio and go to Package Manager Console.
 2. Select default project as `TaskManagement.Infrastructure`.
