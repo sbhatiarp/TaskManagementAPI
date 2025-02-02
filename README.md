@@ -16,6 +16,8 @@ Task Management Application is a solution designed to allow users to efficiently
 
 # How to setup the project
 
+First, clone the repository and then open it in Visual Studio. 
+
 Step 1: **Configure the Database Connection**: 
 Update your connection string in the `appsettings.json` file by modifying the `DefaultConnection` key.
 
